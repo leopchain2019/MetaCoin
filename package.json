@@ -1,0 +1,22 @@
+{
+  "name": "MetaCoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "dotenv": "^8.6.0",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "",
+    "web3-provider-engine": ""
+  },
+  "devDependencies": {},
+  "repository": {},
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": ""
+}
